@@ -1,0 +1,3 @@
+# SINGLE: primary is empty on first shot, so secondary fires
+GT4500,0,0,1,0
+TORPEDO,SINGLE
